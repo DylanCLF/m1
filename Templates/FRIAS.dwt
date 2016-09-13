@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>FRIAS</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/FRIAS.css" rel="stylesheet" type="text/css">
+</head>
+<h1 id="h1">FRIAS</h1>
+<table width="85%" border="10" bordercolor="#EE0000" cellpadding="0,0,0" align="center" height="15">
+  <tbody>
+    <tr>
+     <td id="table" width="17%"><a id="table" href="../index.html">Home</a></td>
+     <td id="table" width="17%"><a id="table" href="../products.html">Products</a></td>
+     <td id="table" width="17%">Events</a></td>
+     <td id="table" width="17%">Café</a></td>
+     <td id="table" width="17%">Services page</a></td>
+    </tr>
+  </tbody>
+</table>
+<h2 id="h2">Welcome to FRIAS</h2>
+<img id="log" src="../Images/logo.jpg" width="488" height="366" alt=""/>
+<body background="../Images/Background.png">
+<!-- TemplateBeginEditable name="body" --> <!-- TemplateEndEditable -->
+</body>
+</html>
