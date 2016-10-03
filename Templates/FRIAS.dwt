@@ -15,9 +15,9 @@
     <tr>
      <td id="table" width="17%"><a id="table" href="../index.html">Home</a></td>
      <td id="table" width="17%"><a id="table" href="../products.html">Products</a></td>
-     <td id="table" width="17%">Events</a></td>
-     <td id="table" width="17%">Café</a></td>
-     <td id="table" width="17%">Services page</a></td>
+     <td id="table" width="17%"><a id="table" href="../events.html">Events</a></td>
+     <td id="table" width="17%"><a id="table" href="../cofe.html">Café</a></td>
+     <td id="table" width="17%"><a id="table" href="../services page.html">Services page</a></td>
     </tr>
   </tbody>
 </table>
